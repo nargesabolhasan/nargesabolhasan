@@ -1,14 +1,14 @@
 # Hi, I'm Narges Abolhasan 👋
 
-Front-end developer. I build web apps with React, Next.js, Vue, and TypeScript.
+Front-end developer. I build web apps with React, Next.js, and TypeScript.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vue,vite,nodejs,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vite,nodejs,git,figma)](https://skillicons.dev)
 
 ## What I work with
 
-- React / Next.js / Vue
+- React / Next.js / NodeJs
 - TypeScript & JavaScript
 - Tailwind, SCSS, responsive UI
 - REST APIs, JWT, Git
