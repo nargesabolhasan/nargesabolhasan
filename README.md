@@ -34,6 +34,3 @@ Frontend developer on:
 
 - [TypeScript course on Quera](https://quera.org/college/landpage/13017/typescript) — practical TypeScript documentation and lessons
 
-## GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nargesabolhasan&show_icons=true&theme=default)
