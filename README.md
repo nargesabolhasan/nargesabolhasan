@@ -1,6 +1,6 @@
 # Hi, I'm Narges Abolhasan 👋
 
-Front-end developer. I build web apps with React, Next.js, and TypeScript.
+Front-end developer. I build web apps with React, Next.js, Vue, and TypeScript.
 
 ## Skills
 
@@ -15,6 +15,14 @@ Front-end developer. I build web apps with React, Next.js, and TypeScript.
 - Netlify
 - REST APIs, JWT, Git
 
+## Live products
+
+Frontend developer on:
+
+- [Tadatoon](https://tadatoon.com/) — personalized children’s stories for families and educators
+- [Azeto](https://www.azeto.ir/)
+- [Tavana Store](https://tavanastore.ir/)
+
 ## Featured projects
 
 - [bear-budget](https://github.com/nargesabolhasan/bear-budget) — personal finance app · [Live demo](https://bear-budget.netlify.app)
@@ -22,4 +30,10 @@ Front-end developer. I build web apps with React, Next.js, and TypeScript.
 - [resume-react-project-marketSite](https://github.com/nargesabolhasan/resume-react-project-marketSite) — marketplace UI in React
 - [resume-project-xenia-hotel](https://github.com/nargesabolhasan/resume-project-xenia-hotel) — hotel site (Sass, jQuery, responsive)
 
+## Writing & docs
 
+- [TypeScript course on Quera](https://quera.org/college/landpage/13017/typescript) — practical TypeScript documentation and lessons
+
+## GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nargesabolhasan&show_icons=true&theme=default)
