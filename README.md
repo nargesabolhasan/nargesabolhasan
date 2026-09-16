@@ -22,6 +22,4 @@ Front-end developer. I build web apps with React, Next.js, and TypeScript.
 - [resume-react-project-marketSite](https://github.com/nargesabolhasan/resume-react-project-marketSite) — marketplace UI in React
 - [resume-project-xenia-hotel](https://github.com/nargesabolhasan/resume-project-xenia-hotel) — hotel site (Sass, jQuery, responsive)
 
-## GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nargesabolhasan&show_icons=true&theme=default)
